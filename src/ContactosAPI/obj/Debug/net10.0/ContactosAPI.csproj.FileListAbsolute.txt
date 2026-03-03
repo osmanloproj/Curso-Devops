@@ -31,3 +31,4 @@
 /Users/oscar.lopez/Documents/GitHub/Curso-Devops/src/ContactosAPI/obj/Debug/net10.0/ContactosAPI.pdb
 /Users/oscar.lopez/Documents/GitHub/Curso-Devops/src/ContactosAPI/obj/Debug/net10.0/ContactosAPI.genruntimeconfig.cache
 /Users/oscar.lopez/Documents/GitHub/Curso-Devops/src/ContactosAPI/obj/Debug/net10.0/ref/ContactosAPI.dll
+/Users/oscar.lopez/Documents/GitHub/Curso-Devops/src/ContactosAPI/obj/Debug/net10.0/ContactosAPI.sourcelink.json
