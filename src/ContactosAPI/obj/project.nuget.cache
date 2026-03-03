@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8Gz6tKbbJY=",
+  "success": true,
+  "projectFilePath": "/Users/oscar.lopez/Documents/GitHub/Curso-Devops/src/ContactosAPI/ContactosAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/oscar.lopez/.nuget/packages/microsoft.aspnetcore.openapi/10.0.2/microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "/Users/oscar.lopez/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
