@@ -17,4 +17,4 @@ jobs:
         run: ls -a
       - name: Build Docker NET image
         run: | 
-          docker build --platform linux -t $IMAGE_BASE_NAME
+          docker build --platform linux -t $IMAGE_BASE_NAME .
