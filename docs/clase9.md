@@ -22,7 +22,7 @@ ENTRYPOINT ["dotnet", "ApiContactos.dll"]
 Ejecuta los comandos:
 
 ```bash
-docker build -t aminespinoza/apicontactos .
+docker build -t oscarlopez/contactosapi .
 
-docker run -it --rm --name apicontactos -p 8080:8080 aminespinoza/apicontactos
+docker run -it --rm --name apicontactos -p 8080:8080 oscarlopez/contactosapi
 ```
